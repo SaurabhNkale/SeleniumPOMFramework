@@ -1,0 +1,10 @@
+
+j	java:S116"VRename this field "sign_uplink" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îİşw
+m	java:S116"XRename this field "error_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔêØï
+V	java:S125"<This block of commented-out lines of code should be removed.(€Ñ¡Œıÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(ñÒ¼³ûÿÿÿÿ
+h	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÂ§´üÿÿÿÿ
+’
+java:S1130/"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ŠÂ§´üÿÿÿÿ
+D
+java:S1068"/Remove this unused "sign_uplink" private field.(îİşw

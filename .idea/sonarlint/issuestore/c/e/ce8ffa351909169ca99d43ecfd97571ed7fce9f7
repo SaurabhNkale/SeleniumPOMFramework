@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şıŠø8â Úã1J$3664fdf5-4784-4bec-8536-381b8ed04a6a
+™	java:S116"RRename this field "MakeApp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­÷Ôøÿÿÿÿ8â Úã1J$8226771d-1d52-4688-9b74-32a0b5cbedfc
+É
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â£–×ùÿÿÿÿ8â Úã1J$ef3a8b3d-eaf5-4084-880b-b5e3a2355ea2
+s
+java:S1068"+Remove this unused "MakeApp" private field.(­÷Ôøÿÿÿÿ8“â Úã1J$5cccda40-338b-4adf-b1c0-abad3a2f546d
